@@ -1,0 +1,7 @@
+merkletools==1.0.3
+rsa==4.7.2
+requests==2.22.0
+pytest==6.2.3
+fastapi==0.65.1
+pydantic==1.8.2
+uvicorn==0.13.4
