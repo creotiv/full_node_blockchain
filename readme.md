@@ -31,7 +31,7 @@
 
 Open 3 terminals. In first run:
 
-`python3 full_node.py --port=8000 -mine=1`
+`python3 full_node.py --port=8000 --mine=1`
 
 After you see that server up and sync process finished, in two next terminals run:
 
