@@ -25,6 +25,9 @@
 * Light client
 * No limitation on block sizes or number of Txs. Block mining starts after previous mininig ends.
 
+## Interesting stuff
+[More interesing stuff about Software Developing](http://t.me/devs_world)
+
 ## Running thins up
 
 `pip install -r requirements.txt`
